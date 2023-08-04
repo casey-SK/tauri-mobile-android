@@ -62,4 +62,4 @@ Alternatively you could set up an emulator.
 Eventually(1 min+), the webview will time out and you may see the following:
 
 
-![example screenshot](example.jpeg)
+<img src="example.jpeg" alt="drawing" width="250"/>
