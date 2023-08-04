@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+src-tauri/.cargo
+src-tauri/gen
+pnpm-lock.yaml
