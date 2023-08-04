@@ -40,6 +40,12 @@ before attempting to run on mobile.
 cargo tauri dev
 ```
 
+you should see something similar to the following:
+
+<img src="example-desktop.png" alt="app screenshot on desktop" width="300"/>
+
+
+
 after verifying that the app can actually run, setup the mobile features:
 
 ```
@@ -62,4 +68,4 @@ Alternatively you could set up an emulator.
 Eventually(1 min+), the webview will time out and you may see the following:
 
 
-<img src="example.jpeg" alt="drawing" width="250"/>
+<img src="example-android.jpeg" alt="app screenshot on android" width="250"/>
